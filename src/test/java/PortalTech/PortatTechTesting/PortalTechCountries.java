@@ -12,9 +12,8 @@ import static io.restassured.RestAssured.when;
 
 public class PortalTechCountries {
 
-	public  Response response;
-	public String jsonAsString;
-
+	private  Response response;
+	
 
 	@Given("^the country service is up$")
 
