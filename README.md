@@ -10,4 +10,4 @@
 # Right click on the project and run as Junit, or to run from command line with Maven configured
 # run the command "mvn test" by going to the location of the project.
 
-# html and Json reports are generated after the tests are executed.
+# html and Json reports are generated after the tests are executed Successfully.
